@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Downloaded Data (Crucial!)
+dataset/
+downloads/
+images/
+*.jpg
+*.jpeg
+*.png
+
+# OS Files
+.DS_Store
+Thumbs.db

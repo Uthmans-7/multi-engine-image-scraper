@@ -1,0 +1,8 @@
+# Web Scraping & Stealth Automation
+selenium>=4.10.0
+undetected-chromedriver>=3.5.0
+requests>=2.31.0
+
+# Image Processing & Deduplication (For the dataset cleaner)
+Pillow>=10.0.0
+imagehash>=4.3.1
