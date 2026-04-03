@@ -1,6 +1,3 @@
-***
-
-```markdown
 # Multi-Engine Image Scraper
 
 An advanced, stealth-oriented image extraction pipeline built for rapid Computer Vision dataset curation. 
@@ -77,8 +74,5 @@ At the top of each scraper file, you can modify the following global variables t
 
 This repository is provided strictly for educational and research purposes. Web scraping exists in a complex legal environment. Users are solely responsible for ensuring that their data extraction activities comply with local laws and the Terms of Service of the respective search engines. The author assumes no liability for IP bans, legal action, or misuse of this software.
 ```
-
-***
-
 
 
